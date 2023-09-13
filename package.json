@@ -9,9 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "packageManager": "pnpm@8.6.12",
+  "packageManager": "pnpm@8.6.10",
   "engines": {
-    "pnpm": ">=8.6.12"
+    "pnpm": ">=8.6.10"
   },
   "dependencies": {
     "astro": "^3.0.13"
