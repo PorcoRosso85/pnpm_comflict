@@ -6,7 +6,11 @@ settings:
 
 importers:
 
-  .: {}
+  .:
+    dependencies:
+      astro:
+        specifier: ^3.0.13
+        version: 3.0.13
 
   packages/der:
     dependencies:

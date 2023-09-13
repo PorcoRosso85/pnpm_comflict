@@ -12,5 +12,8 @@
   "packageManager": "pnpm@8.6.12",
   "engines": {
     "pnpm": ">=8.6.12"
+  },
+  "dependencies": {
+    "astro": "^3.0.13"
   }
 }
